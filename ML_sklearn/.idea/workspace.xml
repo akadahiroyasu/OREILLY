@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d2b7d11-1126-4e19-be42-1e21e11bdea7" name="Default Changelist" comment="" />
+    <list default="true" id="3d2b7d11-1126-4e19-be42-1e21e11bdea7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/01.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/02.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/datasets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/make_blobs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_2d_separator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_agglomerative.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_animal_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_cross_validation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_dbscan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_decomposition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_grid_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_improper_preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_interactive_tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_kmeans.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_kneighbors_regularization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_knn_classification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_knn_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_linear_regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_linear_svc_regularization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_metrics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_nmf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_nn_graphs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_pca.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_rbf_svm_parameters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_ridge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_scaling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plot_tree_nonmonotonous.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mglearn/tools.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +77,11 @@
     <session id="-177149933">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -59,24 +94,25 @@
           <entry key="IPNB" value="2" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="3028" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3028" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/02.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
+              <selected id="9" />
             </state>
           </provider>
         </entry>
@@ -89,6 +125,14 @@
         <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>)</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -104,6 +148,7 @@
     <option name="width" value="1116" />
     <option name="height" value="1005" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -161,7 +206,7 @@
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15659778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.047694754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -201,14 +246,14 @@
     <entry file="file://$PROJECT_DIR$/02.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="8" />
         </state>
       </provider>
     </entry>
